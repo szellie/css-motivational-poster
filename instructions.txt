@@ -1,7 +1,0 @@
-Create a motivational post website, using basic CSS properties. 
-The main h1 text should be using the Regular Libre Baskerville Font from Google Fonts:
-  https://fonts.google.com/specimen/Libre+Baskerville
-The text should be white and background black.
-Image should have a 5px white border.
-The text should be center aligned.
-Div should contain the h1, p and img elements. 
