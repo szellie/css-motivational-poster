@@ -1,6 +1,6 @@
 # css-motivational-poster
 
-# Udemy The Complete 2023 Web Development Bootcamp Section Section 3 - Beginner CSS
+## Udemy The Complete 2023 Web Development Bootcamp Section Section 3 - Beginner CSS
 
 A motivational post website, using only basic CSS properties. 
 
